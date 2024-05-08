@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Letícia Castelo!
 
 ### 🌟 Sobre Mim:
-🇧🇷  Sou brasileira.<br/>
+💚 Sou brasileira.<br/>
 🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.<br/>
 💻 Desenvolvedora de Software Júnior.<br/>
 
