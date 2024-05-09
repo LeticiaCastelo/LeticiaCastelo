@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Letícia Castelo!
 
 ### 🌟 Sobre Mim:
-💚 Sou brasileira.<br/>
+💚 Sou Brasileira.<br/>
 🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.<br/>
 💻 Desenvolvedora de Software Júnior.<br/>
 
@@ -25,8 +25,7 @@ Sinta-se à vontade para entrar em contato para colaborações. Estou sempre dis
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leticiacastelo/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:leticiacastelo.dev@gmail.com)
 
-##
-### Ferramentas e Tecnologias que Utilizo:
+### 🖥️ Ferramentas e Tecnologias que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://diolinux.com.br/video/obsidian-aplicativo-de-anotacoes-cerebro.html)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://visualstudio.microsoft.com/pt-br/#vscode-section)
