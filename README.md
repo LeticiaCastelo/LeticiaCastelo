@@ -28,6 +28,7 @@ Sinta-se à vontade para entrar em contato para colaborações. Estou sempre dis
 ### 🖥️ Ferramentas e Tecnologias que Utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian)](https://diolinux.com.br/video/obsidian-aplicativo-de-anotacoes-cerebro.html)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://tecnoblog.net/responde/o-que-e-e-como-usar-o-notion-guia-para-iniciantes/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://visualstudio.microsoft.com/pt-br/#vscode-section)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.alura.com.br/artigos/python)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.alura.com.br/artigos/django-framework)
