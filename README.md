@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Letícia Castelo
+## 👋 Olá, eu sou Letícia Castelo!
 
 ### 🌟 Sobre Mim:
 💚 Sou Brasileira.<br/>
