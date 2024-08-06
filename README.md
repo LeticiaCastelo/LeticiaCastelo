@@ -23,7 +23,3 @@
 🫰🏻 Sinta-se à vontade para entrar em contato para colaborações. Estou sempre disponível para novas ideias e oportunidades de aprendizado!<br/>
 📩 Email leticiacastelo.dev@gmail.com<br/>
 🔗 [Linkedin](https://www.linkedin.com/in/leticiacastelo/)<br/>
-
-
-
-
