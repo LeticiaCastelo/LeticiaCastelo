@@ -9,7 +9,6 @@
 🖥️ Desenvolvimento de aplicações back-end em Python e Django.<br/>
 🛠️ Construção de APIs REST para integração de sistemas.<br/>
 ⚙️ Automação de processos e desenvolvimento de scripts em Python.<br/>
-📝 Elaboração de documentação clara e concisa de código e projetos.<br/>
 🔄️ Práticas e ferramentas de DevOps para melhorar o fluxo de desenvolvimento e a entrega contínua.<br/>
 📚 Aprendizado contínuo de novas tecnologias e conceitos de Engenharia de Software.<br/>
 🫱🏼‍🫲🏼 Contribuição em projetos de código aberto.<br/>
