@@ -3,7 +3,7 @@
 ### 🌟 Sobre Mim:
 💚 Sou Brasileira.<br/>
 🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.<br/>
-💻 Desenvolvedora de Software Júnior.<br/>
+💻 Desenvolvedora Back-end.<br/>
 
 ### 👩🏻‍💻 Interesses Profissionais:
 🖥️ Desenvolvimento de aplicações back-end em Python e Django.<br/>
