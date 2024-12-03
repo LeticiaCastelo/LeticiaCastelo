@@ -1,24 +1,27 @@
 ## 👋 Olá, eu sou Letícia Castelo! 
 
-### 🌟 Sobre Mim:
-💚 Sou Brasileira.<br/>
-🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.<br/>
-🤖 Estagiária de Desenvolvimento de Inteligência Artificial 
+### Sobre Mim
+🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.</br>
+🧠 Estagiária de Desenvolvimento de Inteligência Artificial.</br>
+📚 Sempre em busca de novos conhecimentos e desafios no universo da tecnologia e IA.</br>
+💚 Brasileira.</br>
 
-### 👩🏻‍💻 Interesses Profissionais:
-🖥️ Desenvolvimento de aplicações back-end em Python e Django.<br/>
-🛠️ Construção de APIs REST para integração de sistemas.<br/>
-⚙️ Automação de processos e desenvolvimento de scripts em Python.<br/>
-🔄️ Práticas e ferramentas de DevOps para melhorar o fluxo de desenvolvimento e a entrega contínua.<br/>
-📚 Aprendizado contínuo de novas tecnologias e conceitos de Engenharia de Software.<br/>
-🫱🏼‍🫲🏼 Contribuição em projetos de código aberto.<br/>
+### Áreas de Estudo
+- **Inteligência Artificial e Machine Learning:**
+  - Aprendizado Supervisionado e Não Supervisionado
+  - Redes Neurais e Deep Learning
+  - Processamento de Linguagem Natural (NLP)
+  - Visão Computacional
+  - Reinforcement Learning
+  - Modelagem e Análise de Dados
+  - Frameworks e Bibliotecas: TensorFlow, Keras, PyTorch, Scikit-Learn
 
-### 📈 Meus Objetivos:
-🌐 Estabelecer conexões na comunidade de desenvolvimento de software, aprender com outros profissionais e compartilhar meu conhecimento.<br/>
-💡 Contribuir ativamente em projetos de software inovadores, aplicando boas práticas de desenvolvimento e buscando alcançar a excelência técnica.<br/>
-🚀 Investir constantemente no aprimoramento das minhas habilidades em programação, buscando dominar conceitos avançados de desenvolvimento de software.<br/>
-
-### 🔍 Onde Me Encontrar:
-🫰🏻 Sinta-se à vontade para entrar em contato para colaborações. Estou sempre disponível para novas ideias e oportunidades de aprendizado!<br/>
-📩 Email leticiacastelo.dev@gmail.com<br/>
-🔗 [Linkedin](https://www.linkedin.com/in/leticiacastelo/)<br/>
+- **Desenvolvimento de Software:**
+  - Python e Django para construção de soluções escaláveis e eficientes
+  - Desenvolvimento Backend, criação de APIs e integrações
+  - Implementação e Deploy de Modelos de IA
+  
+## Meus Objetivos
+  - Aperfeiçoar minhas habilidades em Python e IA para entregar soluções eficientes e inovadoras.
+  - Contribuir em projetos de código aberto, focando em projetos de IA.
+  - Participar de hackathons e competições para colocar meus conhecimentos em prática e expandir minha rede de contatos.
