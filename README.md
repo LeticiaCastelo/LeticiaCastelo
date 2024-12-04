@@ -1,12 +1,12 @@
 ## 👋 Olá, eu sou Letícia Castelo! 
 
-### Sobre Mim
+## Sobre Mim
 🎓 Estudante de Engenharia de Software (bacharelado) - Universidade Cruzeiro do Sul.</br>
 🧠 Estagiária de Desenvolvimento de Inteligência Artificial.</br>
 📚 Sempre em busca de novos conhecimentos e desafios no universo da tecnologia e IA.</br>
 💚 Brasileira.</br>
 
-### Áreas de Estudo
+## Áreas de Estudo
 - **Inteligência Artificial e Machine Learning:**
   - Aprendizado Supervisionado e Não Supervisionado
   - Redes Neurais e Deep Learning
