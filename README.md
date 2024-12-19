@@ -7,19 +7,12 @@
 - Brasileira.</br>
 
 ## Áreas de Estudo
-- **Inteligência Artificial e Machine Learning:**
-  - Aprendizado Supervisionado e Não Supervisionado
-  - Redes Neurais e Deep Learning
-  - Processamento de Linguagem Natural (NLP)
-  - Visão Computacional
-  - Reinforcement Learning
-  - Modelagem e Análise de Dados
-  - Frameworks e Bibliotecas: TensorFlow, Keras, PyTorch, Scikit-Learn
+- **Inteligência Artificial e Machine Learning.**
+
 
 - **Desenvolvimento de Software:**
   - Python e Django para construção de soluções escaláveis e eficientes
   - Desenvolvimento Backend, criação de APIs e integrações
-  - Implementação e Deploy de Modelos de IA
   
 ## Interesses Profissionais
   - Aperfeiçoar minhas habilidades em Python e IA para entregar soluções eficientes e inovadoras.
